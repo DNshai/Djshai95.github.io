@@ -9,6 +9,7 @@ h2 {
     text-align: center;
 }
 body {
+    background-image: url('https://pixabay.com/get/g41b49b0508b52ed82117d62eba9dbe79430b08a1f75355dce277bccd462547fb5c8232994b39e426b8884ac5392feed6.jpg');
     background-color: rgba(57, 61, 65, 0.712);
     padding-top: 100px;
     padding-left: 50px;
