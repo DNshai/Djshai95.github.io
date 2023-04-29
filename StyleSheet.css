@@ -9,8 +9,8 @@ h2 {
     text-align: center;
 }
 body {
-    background-image: url("https://pixabay.com/get/g41b49b0508b52ed82117d62eba9dbe79430b08a1f75355dce277bccd462547fb5c8232994b39e426b8884ac5392feed6.jpg");
-    padding-top: 200px;
+    
+    background:    no-repeat: #center/cover url(“https://pixabay.com/get/g41b49b0508b52ed82117d62eba9dbe79430b08a1f75355dce277bccd462547fb5c8232994b39e426b8884ac5392feed6.jpg”)       #0000;
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 200px;
