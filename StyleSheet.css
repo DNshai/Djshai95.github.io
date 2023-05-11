@@ -9,12 +9,12 @@ h2 {
     text-align: center;
 }
 body {
-    
-    background: url("https://pixabay.com/get/g373d991055ba7715a8a93cd3fcb3a76149ac75cc92d42b575456e69dee92a981ebf548d9c1225b931f6f84832d007ba0_1920.jpg");
+    /*
+    background: url();
     background-position: center;
     background-size: cover;
     padding-top: 200px;
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 200px;
-}
+} 
